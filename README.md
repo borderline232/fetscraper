@@ -1,6 +1,6 @@
 # Fetlife Scraper
 
-A python web scraper that downloads images from a user's profile
+A python web scraper that downloads images from a user's profile on Fetlife
 
 ## How to use
 
