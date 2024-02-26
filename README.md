@@ -8,4 +8,4 @@ A python web scraper that downloads images from a user's profile on Fetlife
 
 2) Install libraries `pip install -r requirements.txt`
 
-3) Run the program `python fetscraper.py`
+3) Run the program `python fetscrape-image-profile.py`
